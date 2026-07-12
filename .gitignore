@@ -1,0 +1,8 @@
+# Your personal Discord Application ID stays local, never committed
+client_id.txt
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
