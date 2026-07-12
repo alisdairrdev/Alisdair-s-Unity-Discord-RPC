@@ -1,6 +1,6 @@
 # Alisdair's Unity Discord RPC
 
-A tiny, no-frills **Discord Rich Presence** tool for **Unity** developers on
+A simple, no-frills **Discord Rich Presence** tool for **Unity** developers on
 Windows. It puts a status on your Discord profile **whenever the Unity editor is
 open** — even when Unity is minimized or in the background — showing:
 
